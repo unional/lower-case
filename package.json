@@ -28,6 +28,7 @@
   "homepage": "https://github.com/blakeembrey/lower-case",
   "devDependencies": {
     "istanbul": "^0.3.0",
-    "mocha": "^1.21.4"
+    "mocha": "^1.21.4",
+    "pre-commit": "0.0.9"
   }
 }
