@@ -3,6 +3,10 @@
   "version": "1.1.0",
   "description": "Lowercase a string",
   "main": "lower-case.js",
+  "files": [
+    "lower-case.js",
+    "LICENSE"
+  ],
   "scripts": {
     "test": "istanbul cover _mocha -- -R spec"
   },
