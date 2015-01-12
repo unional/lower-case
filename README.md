@@ -19,8 +19,9 @@ npm install lower-case --save
 ```js
 var lowerCase = require('lower-case');
 
-lowerCase(null);     //=> ""
-lowerCase('STRING'); //=> "string"
+lowerCase(null);           //=> ""
+lowerCase('STRING');       //=> "string"
+lowerCase('STRING', 'tr'); //=> "strıng"
 
 upperCase({ toString: function () { return 'TEST'; } }); //=> "test"
 ```
