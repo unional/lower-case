@@ -1,7 +1,7 @@
 {
   "name": "case-lower",
   "main": "lower-case.js",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "homepage": "https://github.com/blakeembrey/lower-case",
   "authors": [
     "Blake Embrey <hello@blakeembrey.com>"
