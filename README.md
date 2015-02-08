@@ -1,6 +1,7 @@
 # Lower Case
 
 [![NPM version][npm-image]][npm-url]
+[![NPM downloads][downloads-image]][downloads-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 
@@ -32,6 +33,8 @@ MIT
 
 [npm-image]: https://img.shields.io/npm/v/lower-case.svg?style=flat
 [npm-url]: https://npmjs.org/package/lower-case
+[downloads-image]: https://img.shields.io/npm/dm/lower-case.svg?style=flat
+[downloads-url]: https://npmjs.org/package/lower-case
 [travis-image]: https://img.shields.io/travis/blakeembrey/lower-case.svg?style=flat
 [travis-url]: https://travis-ci.org/blakeembrey/lower-case
 [coveralls-image]: https://img.shields.io/coveralls/blakeembrey/lower-case.svg?style=flat
