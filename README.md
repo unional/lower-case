@@ -13,18 +13,19 @@ Supports Unicode (non-ASCII characters) and non-string entities, such as objects
 
 ```sh
 npm install lower-case --save
+bower install case-lower --save
 ```
 
 ## Usage
 
 ```js
-var lowerCase = require('lower-case');
+var lowerCase = require('lower-case')
 
-lowerCase(null);           //=> ""
-lowerCase('STRING');       //=> "string"
-lowerCase('STRING', 'tr'); //=> "strıng"
+lowerCase(null)           //=> ""
+lowerCase('STRING')       //=> "string"
+lowerCase('STRING', 'tr') //=> "strıng"
 
-upperCase({ toString: function () { return 'TEST'; } }); //=> "test"
+upperCase({ toString: function () { return 'TEST' } }) //=> "test"
 ```
 
 ## License
