@@ -1,0 +1,24 @@
+{
+  "name": "case-lower",
+  "main": "lower-case.js",
+  "version": "1.1.1",
+  "homepage": "https://github.com/blakeembrey/lower-case",
+  "authors": [
+    "Blake Embrey <hello@blakeembrey.com>"
+  ],
+  "description": "Lowercase a string",
+  "keywords": [
+    "case",
+    "cases",
+    "lower",
+    "lowercase"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
